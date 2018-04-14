@@ -1,0 +1,24 @@
+{
+  "name": "Libnitz",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "base64-img": "^1.0.3",
+    "clarifai": "^2.4.0",
+    "node-wolfram": "0.0.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-html-parser": "^2.0.1",
+    "react-scripts": "1.0.14",
+    "react-scripts-plugin-no-minify": "^0.3.1",
+    "uglify": "^0.1.5",
+    "wikijs": "^4.3.4",
+    "wolfram": "^0.3.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
